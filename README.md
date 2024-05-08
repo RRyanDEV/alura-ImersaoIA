@@ -25,6 +25,11 @@
 
 </a>
 
+### v0.2.0-240507
+
+- Aula [`Melhores técnicas em Engenharia de Prompt`] junto com o Exercício.
+- Alterado os arquivo de `.docx` para `.pdf`.
+
 ### v0.1.0-240506
 
 - Criação do repositório
