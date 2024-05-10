@@ -19,30 +19,53 @@
     </p>
 </div>
  
+### Construído com
+
+[![Python][Python]][Python-url]
+[![Jupyter][Jupyter]][jupyter-url]
+
+<!-- GETTING STARTED -->
+## Primeiros Passos
+
+Siga os passos, para que consiga utilizar o bot em sua máquina local.
+
+### Pré-requisitos
+
+
+* Python
+  ```sh
+  1. Instale o Python em sua máquina
+
+  2. Abra o terminal e verifique se o Python foi instalado corretamente 
+  com o código "py -3 --version".
+  ```
+
+### Instalação
+
+1. Pegue a API gratuita do Google aqui: [API key](https://aistudio.google.com/app/apikey)
+2. Clone o repositório
+   ```sh
+   git clone https://github.com/RRyanDEV/alura-ImersaoIA/tree/chatbot-ambient
+   ```
+3. Localize a linha `GOOGLE_API_KEY` em `codexBot.ipynb` e coloque a sua API.
+   ```python
+   GOOGLE_API_KEY='ENTER YOUR API';
+   ```
+4. Vá rodando os códigos de acordo com o informado.
+5. No Visual Studio Code na pasta do repositório, dê o comando `Ctrl+Shift+P`, coloque `Python: Create Environment` e selecione o `Venv`.
+6. Pronto, o projeto estará pronto para ser utilizado.
+
 <a name="section-changelog">
 
 ## Notas de versão
 
 </a>
 
-### v0.2.2-240510
+### v1.0.0-240510
 
-- Renomeado o nome da pasta da `Aula001`.
-
-### v0.2.1-240510
-
-- Correção das pastas da `Aula001`
-
-### v0.2.0-240507
-
-- Aula [`Melhores técnicas em Engenharia de Prompt`] junto com o Exercício.
-- Alterado os arquivo de `.docx` para `.pdf`.
-
-### v0.1.0-240506
-
-- Criação do repositório
-- Aula [`Mergulhando no Gemini, a IA do Google`] junto com o Exercício.
-- Criação da documentação (README e CHANGELOG)
+- Criação do CodexBot, bot feito com IA.
+- Criação do repositório.
+- Criação da documentação (README e CHANGELOG).
 
 ##
 
@@ -71,3 +94,10 @@
 [stars-url]: https://github.com/RRyanDEV/alura-ImersaoIA/stargazers
 [issues-shield]: https://img.shields.io/github/issues/RRyanDEV/alura-ImersaoIA?style=for-the-badge
 [issues-url]: https://github.com/RRyanDEV/alura-ImersaoIA/issues
+
+<!-- Badges -->
+
+[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[python-url]: https://www.python.org
+[Jupyter]: https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white
+[jupyter-url]: https://www.python.org
