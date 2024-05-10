@@ -25,6 +25,10 @@
 
 </a>
 
+### v0.2.2-240510
+
+- Renomeado o nome da pasta da `Aula001`.
+
 ### v0.2.1-240510
 
 - Correção das pastas da `Aula001`
