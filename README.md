@@ -25,6 +25,10 @@
 
 </a>
 
+### v0.3.2-240510
+
+- Adicionado um branch com o Bot que foi feito utilizando a IA.
+
 ### v0.2.2-240510
 
 - Renomeado o nome da pasta da `Aula001`.
