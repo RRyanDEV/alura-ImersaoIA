@@ -25,6 +25,10 @@
 
 </a>
 
+### v0.2.1-240510
+
+- Correção das pastas da `Aula001`
+
 ### v0.2.0-240507
 
 - Aula [`Melhores técnicas em Engenharia de Prompt`] junto com o Exercício.
